@@ -5,6 +5,7 @@
 ### Added
 
 ### Fixed
+- Improved Calendar accessibility and fixed issues with week/month view, weekStartsOn, and keyboard navigation
 
 ### Changed
 
